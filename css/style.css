@@ -1,0 +1,23 @@
+
+.main-section{
+    background-color: #662400;
+    h1{
+        color: #B33F00;
+    }
+    p{
+        color:#FF6B1A
+    }
+
+}
+
+.btn{
+    background-color: #006663;
+}
+
+#quote{
+    /*background-color: aqua;*/
+    p{
+
+        color:#00B3AD
+    }
+}
